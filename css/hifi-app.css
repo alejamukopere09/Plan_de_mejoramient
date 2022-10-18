@@ -4,7 +4,6 @@
 #body-index{
     margin-top: 560px;
     background-image: url('../imagenes/istockphoto-1045990522-170667a.jpg');
-    
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -65,7 +64,7 @@
 @media screen and (min-width:100px) and (max-width:800px){
     #body-index{
         margin-top: 550px;
-        background-image: url('../imagenes/body.jpeg');
+        background-image: url('../imagenes/bodiy.jpeg');
        
         background-repeat: no-repeat;
         background-size: 100% 10;
