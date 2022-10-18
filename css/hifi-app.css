@@ -65,6 +65,7 @@
     #body-index{
         margin-top: 550px;
         background-image: url('../imagenes/body.jpeg');
+       
         background-repeat: no-repeat;
         background-size: 100% 10;
     }
