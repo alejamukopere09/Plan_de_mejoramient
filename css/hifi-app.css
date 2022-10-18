@@ -64,7 +64,7 @@
 @media screen and (min-width:100px) and (max-width:800px){
     #body-index{
         margin-top: 550px;
-        background-image: url(/imagenes/body.jpeg);
+        background-image: url('../imagenes/body.jpeg');
         background-repeat: no-repeat;
         background-size: 100% 10;
     }
@@ -273,7 +273,7 @@ p{
     width:50px;
     height:50px;
     border-radius: 5px;
-    background-image: url("/imagenes/depositphotos_74240239-stock-photo-business.png");
+    background-image: url('../imagenes/depositphotos_74240239-stock-photo-business.png');
     background-size: 50px 50px;
 }
 .stado{
@@ -290,7 +290,7 @@ h4{
     display:flex;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url("/imagenes/Elon_Musk_Royal_Society_\(crop1\).jpg");
+    background-image: url('../imagenes/Elon_Musk_Royal_Society_\(crop1\).jpg');
     background-size: 200px 200px;
     width:200px;
     height: 200px;
