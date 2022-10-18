@@ -64,7 +64,7 @@
 @media screen and (min-width:100px) and (max-width:800px){
     #body-index{
         margin-top: 550px;
-        background-image: url('../imagenes/bodiy.jpeg');
+        background-image: url('../imagenes/body.jpeg');
        
         background-repeat: no-repeat;
         background-size: 100% 10;
