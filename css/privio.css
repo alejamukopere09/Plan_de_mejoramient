@@ -101,7 +101,7 @@ h3{
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: 70px 70px;
-    background-image: url(/imagenes/avengers.jpg);
+    background-image: url('../imagenes/avengers.jpg');
 }
 .caratula_joker{
     display: flex;
@@ -113,7 +113,7 @@ h3{
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: 70px 70px;
-    background-image: url(/imagenes/joker.jpg);
+    background-image: url('../imagenes/joker.jpg');
 }
 .caratula_django{
     display: flex;
@@ -125,7 +125,7 @@ h3{
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: 70px 70px;
-    background-image: url(/imagenes/django.jpg);
+    background-image: url('../imagenes/django.jpg');
 }
 .caratula_tk{
     display: flex;
@@ -137,7 +137,7 @@ h3{
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: 70px 70px;
-    background-image: url(/imagenes/thekm.jpg);
+    background-image: url('../imagenes/thekm.jpg');
 }
 .caratula_wm{
     display: flex;
@@ -149,7 +149,7 @@ h3{
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: 70px 70px;
-    background-image: url(/imagenes/wm.jpg);
+    background-image: url('../imagenes/wm.jpg');
 }
 
 #rep{
